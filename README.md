@@ -1,7 +1,6 @@
 # React-Parallax-Card
 A card with parallax effect the the user mouse-over it.
-![Video](./thumb.png)](https://youtu.be/GqAM1OTnY3Q)
-
+[![Video Demo](./thumb.png)](https://youtu.be/GqAM1OTnY3Q "Demo")
 ## How to Intergrate in my project?
 Import parallaxCard.js and index.css in your project.
 
